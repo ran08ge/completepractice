@@ -12,7 +12,7 @@ namespace completepractice
         {
             ClsPartial1 obj1 = new ClsPartial1();
             obj1.m2();
-            Console.ReadKey();
+            Console.ReadKey() ;
         }
         
     }
